@@ -9,13 +9,13 @@ To better understand the logic behind each action, I reviewed many of the class 
 
 The lines of code borrowed from the guidelines provided by Dr Ruqaiya Khanam from AskBCS were used in Line 39 - Line 41
    - Author(s): Dr Ruqaiya Khanam
-   - Link: [Tutorials Point]([https://ucbvirtdatapt-oqy5378.slack.com/archives/C068Q5A20L9/p1701499701878159](https://www.tutorialspoint.com/finding-the-maximum-and-minimum-in-a-python-set))
+   - Link: [Tutorials Point](https://www.tutorialspoint.com/finding-the-maximum-and-minimum-in-a-python-set)
   
 2. SparkByExamples: Get Index of Max of List in Python
 
 The lines of code borrowed from the guidelines provided by Gottumukkala Sravan Kumar from SparkByExamples were used in Line 45 - Line 46
    - Author(s): Gottumukkala Sravan Kumar
-   - Link: [SparkByExamples]([[https://ucbvirtdatapt-oqy5378.slack.com/archives/C068Q5A20L9/p1701499701878159](https://www.tutorialspoint.com/finding-the-maximum-and-minimum-in-a-python-set](https://sparkbyexamples.com/python/get-index-of-max-of-list-in-python/#:~:text=Using%20For%20Loop%20%26%20index(),index%20position%20in%20the%20list.)https://sparkbyexamples.com/python/get-index-of-max-of-list-in-python/#:~:text=Using%20For%20Loop%20%26%20index(),index%20position%20in%20the%20list.))
+   - Link: [SparkByExamples](https://sparkbyexamples.com/python/get-index-of-max-of-list-in-python/#:~:text=Using%20For%20Loop%20%26%20index(),index%20position%20in%20the%20list.)
 
 # Code Source for PyPoll
 
@@ -23,11 +23,10 @@ The lines of code borrowed from the guidelines provided by Gottumukkala Sravan K
 
 The lines of code borrowed from the guidelines provided from Stack Overflow were used in Line 23
    - Author(s): Gottumukkala Sravan Kumar
-   - Link: [Stack Overflow]([[[https://ucbvirtdatapt-oqy5378.slack.com/archives/C068Q5A20L9/p1701499701878159](https://www.tutorialspoint.com/finding-the-maximum-and-minimum-in-a-python-set](https://sparkbyexamples.com/python/get-index-of-max-of-list-in-python/#:~:text=Using%20For%20Loop%20%26%20index(),index%20position%20in%20the%20list.)https://sparkbyexamples.com/python/get-index-of-max-of-list-in-python/#:~:text=Using%20For%20Loop%20%26%20index(),index%20position%20in%20the%20list.](https://stackoverflow.com/questions/15768757/how-to-construct-a-set-out-of-list-items-in-python)https://stackoverflow.com/questions/15768757/how-to-construct-a-set-out-of-list-items-in-python))
-
+   - Link: [Stack Overflow](https://stackoverflow.com/questions/15768757/how-to-construct-a-set-out-of-list-items-in-python)
 2. Stack Overflow: How are lambdas useful? 
 
 The lines of code borrowed from the guidelines provided from Stack Overflow were used in Line 27
    - Author(s): N/A
-   - Link: [Stack Overflow]([[https://ucbvirtdatapt-oqy5378.slack.com/archives/C068Q5A20L9/p1701499701878159](https://www.tutorialspoint.com/finding-the-maximum-and-minimum-in-a-python-set](https://stackoverflow.com/questions/890128/how-are-lambdas-useful/890188#890188)))
+   - Link: [Stack Overflow](https://stackoverflow.com/questions/890128/how-are-lambdas-useful/890188#890188)
   
