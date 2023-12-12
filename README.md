@@ -9,7 +9,7 @@ To better understand the logic behind each action, I reviewed many of the class 
 
 1. **Tutorials Point: Finding the Maximum and Minimum in a Python set**
 
-The lines of code borrowed from the guidelines provided by Dr Ruqaiya Khanam from AskBCS were used in Line 39 - Line 41
+The lines of code borrowed from the guidelines provided by Dr Ruqaiya Khanam from Tutorials Point were used in Line 39 - Line 41
    - Author(s): Dr Ruqaiya Khanam
    - Link: [Tutorials Point](https://www.tutorialspoint.com/finding-the-maximum-and-minimum-in-a-python-set)
   
