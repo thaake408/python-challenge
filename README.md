@@ -1,6 +1,6 @@
 # python-challenge
 
-Module 3
+**Module 3**
 
 I wrote down comments for almost every line of code to help guide myself through each step and demonstrate my understanding of the logic behind the syntax used.
 To better understand the logic behind each action, I reviewed many of the class activity solutions from Week 3 as well as Stack Overflow and other articles found on Google. 
