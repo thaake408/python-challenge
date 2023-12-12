@@ -13,7 +13,7 @@ The lines of code borrowed from the guidelines provided by Dr Ruqaiya Khanam fro
    - Author(s): Dr Ruqaiya Khanam
    - Link: [Tutorials Point](https://www.tutorialspoint.com/finding-the-maximum-and-minimum-in-a-python-set)
   
-2.** SparkByExamples: Get Index of Max of List in Python**
+2. **SparkByExamples: Get Index of Max of List in Python**
 
 The lines of code borrowed from the guidelines provided by Gottumukkala Sravan Kumar from SparkByExamples were used in Line 45 - Line 46
    - Author(s): Gottumukkala Sravan Kumar
@@ -27,7 +27,7 @@ The lines of code borrowed from the guidelines provided from Stack Overflow were
    - Author(s): N/A
    - Link: [Stack Overflow](https://stackoverflow.com/questions/15768757/how-to-construct-a-set-out-of-list-items-in-python)
      
-2. **Stack Overflow: How are lambdas useful? **
+2. **Stack Overflow: How are lambdas useful?**
 
 The lines of code borrowed from the guidelines provided from Stack Overflow were used in Line 27
    - Author(s): N/A
