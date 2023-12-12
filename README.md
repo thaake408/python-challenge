@@ -22,7 +22,7 @@ The lines of code borrowed from the guidelines provided by Gottumukkala Sravan K
 1. Stack Overflow: How to construct a set out of list items in python?
 
 The lines of code borrowed from the guidelines provided from Stack Overflow were used in Line 23
-   - Author(s): Gottumukkala Sravan Kumar
+   - Author(s): N/A
    - Link: [Stack Overflow](https://stackoverflow.com/questions/15768757/how-to-construct-a-set-out-of-list-items-in-python)
 2. Stack Overflow: How are lambdas useful? 
 
